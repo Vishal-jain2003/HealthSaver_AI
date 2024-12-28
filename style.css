@@ -1,0 +1,88 @@
+/* General Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+  background-color: #f4f4f4;
+  padding: 20px;
+}
+
+/* Header Section */
+header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+header h1 {
+  font-size: 2.5em;
+  margin-bottom: 5px;
+}
+
+header p {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+}
+
+/* Section Styling */
+section {
+  margin-bottom: 20px;
+}
+
+/* Section Titles */
+h2 {
+  background-color: #007bff;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+/* Key Skills Section */
+.skills ul {
+  list-style-type: none;
+}
+
+.skills li {
+  font-size: 1.1em;
+  margin-bottom: 5px;
+}
+
+/* Education and Experience Sections */
+section p {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+}
+
+.job ul {
+  list-style-type: disc;
+  padding-left: 20px;
+}
+
+/* Project Section */
+.projects .project {
+  margin-bottom: 10px;
+}
+
+.projects a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.projects a:hover {
+  text-decoration: underline;
+}
+
+/* Footer Styling */
+footer {
+  text-align: center;
+  font-size: 0.9em;
+  margin-top: 40px;
+  color: #777;
+}

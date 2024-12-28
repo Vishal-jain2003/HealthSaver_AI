@@ -1,0 +1,30 @@
+<div class="container mt-5 py-5" id="developer-section" style="background: linear-gradient(120deg, #f3f4f7, #ffffff); border-radius: 20px; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);">
+  <h2 class="text-center mb-5" style="font-weight: bold; color: #333;">Meet the Developer</h2>
+  <div class="row align-items-center">
+    <!-- Developer Image -->
+    <div class="col-md-4 text-center">
+      <div class="image-container" style="position: relative; display: inline-block;">
+        <img src="{{url_for('static',filename='vishaljainpic.jpg')}}" class="rounded-circle img-fluid shadow" alt="Vishal Jain" style="width: 220px; height: 220px; border: 10px solid #f3f4f7; transition: transform 0.3s;">
+        <div style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); background: linear-gradient(45deg, #ff5733, #ff8c00); color: white; padding: 5px 15px; border-radius: 20px; font-size: 0.9rem; font-weight: bold; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);">
+          Developer
+        </div>
+      </div>
+    </div>
+
+    <!-- Developer Details -->
+    <div class="col-md-8">
+      <h3 class="mb-3" style="color: #333; font-weight: bold;">Vishal Jain</h3>
+      <p style="font-size: 1.1rem; color: #555; line-height: 1.8;">
+        I am Vishal Jain, a passionate developer focused on building innovative and impactful projects. With expertise in <b>AI integration, Java, Python, and Web Development</b>, I strive to combine creativity and technology to solve real-world problems and deliver value.
+      </p>
+      <h5 class="mt-4" style="color: #333; font-weight: bold;">What I've Developed</h5>
+      <ul style="font-size: 1rem; color: #555; line-height: 1.8; padding-left: 1.5rem;">
+        <li><b>HealthSaver AI:</b> An AI-driven health recommendation system with features like disease prediction, medication suggestions, and fitness guidance.</li>
+        <li><b>Responsive Websites:</b> Built visually stunning, responsive websites using HTML, CSS, and JavaScript.</li>
+        <li><b>Java Applications:</b> Advanced Java solutions, including Spring Framework projects and robust algorithms.</li>
+        <li><b>Python Tools:</b> Automated workflows and data pipelines using Python, NumPy, and Pandas.</li>
+      </ul>
+      <a href="/about" class="btn mt-4" style="background: linear-gradient(45deg, #ff5733, #ff8c00); color: white; font-weight: bold; padding: 10px 20px; border: none; border-radius: 30px; transition: transform 0.3s, box-shadow 0.3s;">Learn More About Me</a>
+    </div>
+  </div>
+</div>
