@@ -22,10 +22,10 @@ HealthSaver AI is an intelligent health recommendation system designed to assist
 ## Technologies Used
 
 - Python
-- TensorFlow / Keras
 - Flask
 - HTML, CSS, JavaScript
 - Bootstrap
+
 
 ## Setup
 
