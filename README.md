@@ -9,7 +9,7 @@ HealthSaver AI is an intelligent health recommendation system designed to assist
 - **User-friendly**: Easy-to-use interface for seamless interaction.
 
 
-![Home Page Welcome ](WhatsApp Image 2024-12-28 at 14.22.58_e78265d9.jpg)
+![Home Page Welcome ](page1.jpg)
 ![About 2](page2.jpg)
 ![Contact Us](page3.jpg)
 ![Developer](page4.jpg)
@@ -17,7 +17,7 @@ HealthSaver AI is an intelligent health recommendation system designed to assist
 
 
 
-[![HealthSaver AI Demo](WhatsApp Image 2024-12-28 at 14.22.58_e78265d9.jpg)](HealthSaver%20AI.webm)
+[![HealthSaver AI Demo](page1.jpg)](HealthSaver_AIVideo.webm)
 
 ## Technologies Used
 
